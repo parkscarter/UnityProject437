@@ -16,8 +16,7 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] private Rigidbody PlayerBody;
 
     [SerializeField] private float Speed = 10f;
-    [SerializeField] private float Sensitivity = 3f;
-   
+
     [SerializeField] private float StaminaDrainRate = 25f; 
     [SerializeField] private float StaminaRegenRate = 7f; 
     [SerializeField] private float SprintMultiplier = 1.8f;
