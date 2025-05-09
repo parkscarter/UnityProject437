@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{1D45277B-A47E-F56E-AB7D-9CA29A1739D3}|">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Materials/NewComputeShader.compute">
+    <Files>
+      <File FileName="Assets/UI Toolkit/UnityThemes/UnityDefaultRuntimeTheme.tss" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Player.cs" />
+      <File FileName="Assets/Scripts/CheckersLogic.cs" />
+      <File FileName="Assets/Scripts/Piece.cs" />
+      <File FileName="Assets/Scripts/CheckersAI.cs" />
+      <File FileName="Assets/UI Toolkit/WinUI.uxml" />
+      <File FileName="Assets/UI Toolkit/TerrainUI.uxml" />
+      <File FileName="Assets/Scripts/Enemy2.cs" />
+      <File FileName="Assets/Scripts/Enemy1.cs" />
+      <File FileName="Assets/Scripts/Enemy3.cs" />
+      <File FileName="Temp/Compiled-Standard.shader" />
+      <File FileName="Assets/Materials/NewComputeShader.compute" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Project2" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Materials" expanded="True">
+                <Node name="NewComputeShader.compute" selected="True" />
+              </Node>
+              <Node name="Scripts" expanded="True" />
+              <Node name="UI Toolkit" expanded="True">
+                <Node name="UnityThemes" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ebd1b987-e62b-40fb-a587-d0fcf0cc8a05" />
+</Properties>

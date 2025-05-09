@@ -1,0 +1,33 @@
+#HealthBar {
+    flex-direction: row;
+    align-items: auto;
+    width: 30%;
+    scale: 1 1;
+    -unity-text-align: upper-center;
+    margin-left: 4px;
+    padding-left: 0;
+    min-width: 200px;
+
+    --unity-progress-bar-foreground: red;
+    --unity-progress-bar-background: rgba(0, 0, 0, 0.2);
+}
+
+#StamBar {
+    flex-direction: row;
+    align-items: auto;
+    width: 30%;
+    scale: 1 1;
+    -unity-text-align: upper-center;
+    margin-left: 4px;
+    padding-left: 0;
+    min-width: 200px;
+
+    --unity-progress-bar-foreground: green;
+    --unity-progress-bar-background: rgba(0, 0, 0, 0.2);
+}
+
+#WinLabel {
+    font-size: 40px;
+    -unity-text-align: middle-center;
+    height: 361px;
+}

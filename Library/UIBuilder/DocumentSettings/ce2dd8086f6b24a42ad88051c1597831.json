@@ -1,0 +1,30 @@
+{
+    "UxmlGuid": "ce2dd8086f6b24a42ad88051c1597831",
+    "UxmlPath": "Assets/UI Toolkit/TerrainUI.uxml",
+    "CanvasX": 0,
+    "CanvasY": -1,
+    "CanvasWidth": 838,
+    "CanvasHeight": 402,
+    "MatchGameView": false,
+    "ZoomScale": 1.0499999523162842,
+    "PanOffset": {
+        "x": 142.25930786132813,
+        "y": 188.03817749023438
+    },
+    "ColorModeBackgroundOpacity": 1.0,
+    "ImageModeCanvasBackgroundOpacity": 1.0,
+    "CameraModeCanvasBackgroundOpacity": 1.0,
+    "EnableCanvasBackground": false,
+    "CanvasBackgroundMode": 0,
+    "CanvasBackgroundColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+    },
+    "CanvasBackgroundImage": {
+        "instanceID": 0
+    },
+    "CanvasBackgroundImageScaleMode": 1,
+    "CanvasBackgroundCameraName": ""
+}

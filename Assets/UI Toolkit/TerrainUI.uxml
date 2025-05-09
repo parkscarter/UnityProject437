@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI%20Toolkit/terrainUIStyle.uss?fileID=7433441132597879392&amp;guid=b05246e7862134d1ca13e321ee247a62&amp;type=3#terrainUIStyle" />
+    <ui:ProgressBar value="100" title=" Health                           " name="HealthBar" />
+    <ui:ProgressBar value="100" title=" Stamina                        " name="StamBar" />
+    <ui:Label tabindex="-1" text="You WIn!" parse-escape-sequences="true" display-tooltip-when-elided="true" name="WinLabel" style="font-size: 60px;" />
+</ui:UXML>
