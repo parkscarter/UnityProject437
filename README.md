@@ -1,5 +1,5 @@
 ﻿
-# **Game Title: [Your Game Name]**
+# **Checker Lock**
 
 This game was developed for **Comsci 437** at **Iowa State University**. It’s a mix of terrain exploration and strategic decision-making, where you’ll face AI bots in both a 3D terrain and a Checkers game. The terrain bots use decision trees and NavMesh for pathfinding, and the exit challenge includes a Minimax AI with variable difficulty.
 
